@@ -1,0 +1,6 @@
+torch==1.12.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+tqdm==4.66.5
+peptides==0.3.4
