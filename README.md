@@ -3,7 +3,7 @@
 ## Introduction
 **DAISY** is a deep learning framework for TCR-epitope binding prediction via the integration of global and local physicochemical properties.
 
-![](./output/architecture.png)
+![](./output/architecture.jpg)
 
 ## Installation
 
