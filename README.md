@@ -90,6 +90,7 @@ Each test file must be a CSV file containing:
 | peptide | Epitope sequence (string)                        |
 | cdr3    | TCR CDR3 sequence (string)                       |
 | label   | Ground truth label: `1` for binding, `0` for non-binding |
+
 Example:
 ```csv
 peptide,cdr3,label
