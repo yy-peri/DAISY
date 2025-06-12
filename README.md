@@ -1,9 +1,9 @@
 # DAISY
 
 ## Introduction
-**DAISY** A biologically informed vision-guided framework for interpretable T cell receptor–epitope binding prediction.
+**A biologically informed vision-guided framework for interpretable T cell receptor–epitope binding prediction**
 
-![](./output/architecture.jpg)
+![](./output/overview.jpg)
 
 ## Installation
 
